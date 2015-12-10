@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">131171383909485</string>
+    <string name="textView">Facebook Login</string>
+
+    <string name="buttonText">Press me</string>
+    <string name="video_button">Start Recording</string>
+    <string name="next_screen">Next</string>
+    <string name="textView2">How You Doinnn...</string>
+    <string name="newvar">How You Doinn...</string>
+    <string name="uploadButton">Upload Video</string>
+    <string name="btnUploadToServer">Upload</string>
+    <string name="testText">This is me</string>
+
+</resources>
